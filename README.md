@@ -1,5 +1,7 @@
 # projeto-teste
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Repositório de teste para aprender a abrir Pull Requests com o Claude Code.
 
 ## Como usar
